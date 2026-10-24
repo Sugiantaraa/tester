@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 300" role="img" aria-label="Lapisan komposter: bahan cokelat, bahan hijau, tanah, dan kompos matang">
+  <rect width="480" height="300" fill="#F7F3E8"/>
+  <path d="M110 40h180l-14 230a12 12 0 0 1-12 11H136a12 12 0 0 1-12-11z" fill="#fff" stroke="#1F4D2B" stroke-width="5"/>
+  <rect x="104" y="28" width="192" height="16" rx="6" fill="#1F4D2B"/>
+  <clipPath id="c"><path d="M115 48h170l-13 218a8 8 0 0 1-8 8H136a8 8 0 0 1-8-8z"/></clipPath>
+  <g clip-path="url(#c)">
+    <rect x="100" y="48" width="200" height="50" fill="#B79B6B"/>
+    <rect x="100" y="98" width="200" height="50" fill="#7FB04A"/>
+    <rect x="100" y="148" width="200" height="40" fill="#8A6B4A"/>
+    <rect x="100" y="188" width="200" height="90" fill="#4A3426"/>
+  </g>
+  <g font-family="Segoe UI,Arial,sans-serif" font-size="14" fill="#2E352F">
+    <text x="310" y="78">Bahan cokelat (kering)</text>
+    <text x="310" y="128">Bahan hijau (basah)</text>
+    <text x="310" y="172">Tanah / kompos jadi</text>
+    <text x="310" y="236">Kompos matang</text>
+  </g>
+  <g stroke="#2E352F" stroke-width="1.5"><path d="M290 73h16M290 123h16M290 168h16M290 232h16"/></g>
+</svg>

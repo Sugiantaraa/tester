@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 420" role="img" aria-label="Tiga tempat sampah terpisah: organik, anorganik, dan B3">
+  <rect width="640" height="420" fill="#E7EFD8"/>
+  <circle cx="520" cy="90" r="46" fill="#F3E6A8"/>
+  <path d="M0 330c90-40 170-40 260-10s170 30 380-20v120H0z" fill="#B9D68C"/>
+  <rect y="352" width="640" height="68" fill="#2F6B3A"/>
+  <!-- Organik -->
+  <g>
+    <rect x="70" y="190" width="150" height="170" rx="10" fill="#5E9B3A"/>
+    <rect x="60" y="170" width="170" height="28" rx="8" fill="#3E7A2A"/>
+    <rect x="130" y="160" width="30" height="12" rx="5" fill="#2C5A1E"/>
+    <path d="M120 300c0-26 16-44 46-48-2 28-16 46-40 46-3 0-5 0-6 2z" fill="#F7F3E8"/>
+  </g>
+  <!-- Anorganik -->
+  <g>
+    <rect x="245" y="190" width="150" height="170" rx="10" fill="#2F6F9F"/>
+    <rect x="235" y="170" width="170" height="28" rx="8" fill="#24577D"/>
+    <rect x="305" y="160" width="30" height="12" rx="5" fill="#1B4361"/>
+    <g fill="none" stroke="#F7F3E8" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M300 262l20-30 20 30"/><path d="M286 290l14-28M354 290l-14-28"/><path d="M286 290h68"/>
+    </g>
+  </g>
+  <!-- B3 -->
+  <g>
+    <rect x="420" y="190" width="150" height="170" rx="10" fill="#B8402F"/>
+    <rect x="410" y="170" width="170" height="28" rx="8" fill="#8F2F22"/>
+    <rect x="480" y="160" width="30" height="12" rx="5" fill="#6E2218"/>
+    <path d="M495 235l32 56h-64z" fill="none" stroke="#F7F3E8" stroke-width="7" stroke-linejoin="round"/>
+    <rect x="492" y="255" width="6" height="18" rx="3" fill="#F7F3E8"/><circle cx="495" cy="282" r="4" fill="#F7F3E8"/>
+  </g>
+  <!-- daun -->
+  <path d="M120 120c0-22 14-38 40-40-2 24-14 40-34 40-3 0-5 0-6 0z" fill="#3E8A22"/>
+</svg>
